@@ -17,8 +17,6 @@ async def hello(client: app, message):
     buttons = [
            [
                 InlineKeyboardButton("⚡ Dᴇᴠᴇʟᴏᴘᴇʀ💕⚡", url="t.me/WTF_NoHope"),
-            ],
-            [
                 InlineKeyboardButton("⚡ Oᴡɴᴇʀ💕⚡", url="t.me/SAM_GODHERE"),
             ],
             [
